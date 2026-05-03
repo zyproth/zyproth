@@ -1,7 +1,5 @@
 ## zyproth
 
-building on solana
-
 ---
 
 rust  
